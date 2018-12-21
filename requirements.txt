@@ -27,7 +27,7 @@ decorator==4.3.0          # via retry
 defusedxml==0.5.0         # via python3-openid
 docutils==0.14            # via botocore
 et-xmlfile==1.0.1         # via openpyxl
-git+https://github.com/santosh-kore/Flask-AppBuilder.git@e12a83c4bc63b23ba9002723a3af9dcd1df0e29f
+git+https://github.com/santosh-kore/Flask-AppBuilder.git@0b86f0c1cc865eeb59dd1944f70a1136c7aa6256
 flask-caching==1.4.0
 flask-compress==1.4.0
 flask-migrate==2.1.1
